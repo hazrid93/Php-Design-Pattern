@@ -1,0 +1,19 @@
+{
+    "name": "azad/test",
+    "description": "training php",
+    "type": "project",
+    "license": "MITT",
+    "autoload": {
+        "psr-4": {
+            "Azad\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hazrid",
+            "email": "hazrid93@hotmail.c.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
