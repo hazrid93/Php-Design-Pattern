@@ -1,8 +1,8 @@
 <?php
 require '../vendor/autoload.php';
 
-$test = "hello";
-echo "<h1>$test</h1>" . "<br>";
+$test = __DIR__;
+echo "<h1>current directory at: $test</h1>" . "<br>";
 ?>
 
 <!DOCTYPE html>

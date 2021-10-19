@@ -5,7 +5,7 @@
     "license": "MITT",
     "autoload": {
         "psr-4": {
-            "Azad\\Test\\": "src/"
+            "Azad\\": "src/"
         }
     },
     "authors": [
